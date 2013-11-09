@@ -1,0 +1,14 @@
+      html, body {
+      	margin: 0;
+      	height: 100%;
+      	padding:0px;
+      }
+      #map{
+      	height:100%;
+      }
+
+      .imageClip{
+      	width:277px;
+      	height:175px;
+      	overflow:hidden;
+      }
